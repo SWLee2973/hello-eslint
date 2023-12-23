@@ -1,3 +1,1 @@
-
-
-const a = 0;
+const a = "대충";
